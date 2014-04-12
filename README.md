@@ -4,7 +4,7 @@ knighty
 A python automation library with webkit. 
 
 
-There is a example for login pinterest.com and auto follow another user from follower list
+There is a example for login pinterest.com and auto follow a user list
 
 
     username='username' # your pinterest account 
