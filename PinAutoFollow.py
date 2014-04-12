@@ -5,7 +5,7 @@ class PinAutoFollow(knighty) :
     
     username='username'
     password='password'
-    followerbroad='http://www.pinterest.com/baker7549/followers/'
+    followerbroad='http://www.pinterest.com/baker7549/wedding-dress/followers/'
     
     def __init__(self):
        super(PinAutoFollow, self).__init__()
