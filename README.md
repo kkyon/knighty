@@ -12,7 +12,7 @@ http://www.riverbankcomputing.com/software/pyqt/download
 
 #Example 1 pinterest.com  Auto Follow
 
-This is a example for login pinterest.com and auto follow a user list. Revised the code to load full follower list. 
+This is a example for login pinterest.com and auto follow a user list. Code is revised to load full follower list. 
 
 
     username='username' # your pinterest account 
