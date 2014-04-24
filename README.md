@@ -1,13 +1,18 @@
-knighty
+Knighty
 =======
 
 A python automation library with webkit. 
 
-The dependency library is PYQT4 .you can dowload it from 
+#Dependency
+* Python 2.7
+* Pyqt4
+You can download pyqt4 it from 
 
 http://www.riverbankcomputing.com/software/pyqt/download
 
-There is a example for login pinterest.com and auto follow a user list
+#Example 1 pinterest.com  Auto Follow
+
+This is a example for login pinterest.com and auto follow a user list
 
 
     username='username' # your pinterest account 
